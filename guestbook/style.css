@@ -1,0 +1,16 @@
+html, body{
+    color: black;
+    margin: 0;
+    text-align: center;
+}
+
+#container{
+    background-color: #B07CDA;
+}
+
+#name { margin: 0.35em; }
+#input{ background-color: white; border: 2px solid #D1B2EA; margin-left: 13em; margin-right: 13em; margin-bottom: 1em; margin-top: 1em; color: black;}
+
+h1{ margin: 0; color: #FFA4BC}
+h2{ color: #FF84BC; }
+h3{ color: black; margin: 1em;}
